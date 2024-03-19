@@ -1,0 +1,8 @@
+
+qcsharpsquid:S3903	"(Move 'RpcClient' into a named namespace.(äâæ_8“å¡¶å1J$be5c305c-4514-4e56-9929-667ba6eda861
+”csharpsquid:S3881	"KFix this implementation of 'IDisposable' to conform to the dispose pattern.(äâæ_8•å¡¶å1J$897c9327-96ce-4d67-866d-b9dc8279890f
+csharpsquid:S10060"ORemove the default parameter value to match the signature of overridden method.(˜£¬üÿÿÿÿ8–å¡¶å1J$11e9af52-b1ff-4dce-b909-20e5b156772b
+csharpsquid:S10060"ORemove the default parameter value to match the signature of overridden method.(˜£¬üÿÿÿÿ8—å¡¶å1J$3f8fc199-ccc2-4f9e-8592-f29ad510fe1c
+™csharpsquid:S10061"ORemove the default parameter value to match the signature of overridden method.(Ä¶ÌÀ8—å¡¶å1J$08e7fcbd-0240-49b0-906a-df991fbfea7f
+—csharpsquid:S9270"IRename parameter 'message' to 'empty' to match the interface declaration.(˜£¬üÿÿÿÿ8šå¡¶å1J$2499c6c7-65a4-4221-a344-5ea9a67f79c3
+wcsharpsquid:S1144"-Remove the unused private field 'QUEUE_NAME'.(Úõ°®8œå¡¶å1J$e0c350c7-ab98-4b9c-b3ae-4f045fcf39b8
