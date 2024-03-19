@@ -4,7 +4,7 @@ to start app
 
 run `docker compose up` in the terminal 
 
-open url [[http://](http://localhost:8080/swagger/index.html)](http://localhost:8080/swagger/index.html)
+open url [http://localhost:8080/swagger/index.html](http://localhost:8080/swagger/index.html)
 
 
 try to get best stories by number of stories 
